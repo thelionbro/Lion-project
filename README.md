@@ -37,7 +37,7 @@ Deploy your bot on `heroku`
 
 CLick Button
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/HeyyNicyy/SRCB)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=ur repo)
   
 Buildpacks for manual deploy:
 
