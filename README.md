@@ -2,9 +2,9 @@
   <b>Save restricted content Bot</b>
 </h1> 
 
-Contact: [Telegram](https://t.me/MaheshChauhan)
+Contact: [Telegram](https://t.me/srcb_here)
 
-A stable telegram bot to get restricted messages with custom thumbnail support , made by @MaheshChauhan. 
+A stable telegram bot to get restricted messages with custom thumbnail support ,
 
 - works for both public and private channels
 - Custom thumbnail support for Pvt medias
@@ -37,7 +37,7 @@ Deploy your bot on `heroku`
 
 CLick Button
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/HeyyNicyy/SRCB)
   
 Buildpacks for manual deploy:
 
