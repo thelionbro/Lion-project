@@ -29,7 +29,7 @@
             "value": ""
         },
         "SESSION": {
-            "description": "pyrogram string session.",
+            "description": "pyrogram string session. Get from- https://replit.com/@SpEcHiDe/GenerateStringSession",
             "value": ""
         },
         "FORCESUB": {
