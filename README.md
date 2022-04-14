@@ -35,7 +35,7 @@ BOT TOKEN: @Botfather on telegram
   
 Deploy your bot on `heroku`
 
-##CLick Button
+CLick Button
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
   
